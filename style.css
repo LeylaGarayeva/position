@@ -1,0 +1,29 @@
+html,body{
+	margin: 0;
+}
+
+.row{
+	width: 100%;
+}
+.alt_row{
+	width: 30%;
+	height: 300px;
+	float: left;
+	border: 1px solid silver;
+	position: relative;
+}
+.dateTime{
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: rgba(32, 141, 148, 1.0);
+	color: white;
+	padding: 10px;
+}
+.socialButtons{
+	border: 1px solid silver;
+	background-color:grey;
+	position: absolute;
+	width:100%;
+	float: left;
+}
